@@ -3,7 +3,7 @@
 ## As you may already know, I'm João Pedro [1] ##
 I'm a web developer stationed in João Pessoa, Paraiba, Brazil (for now).
 
-During my bachelor's in digital media communication classes, I got called out by my programming professor, who said, and I quote:
+During my bachelor's in digital media communications, I got called out by my programming professor, who said, and I quote:
 
 > "João, you just always find a way to break every code I ask the class to make, it must be some kind of curse"
 
@@ -11,10 +11,10 @@ During my bachelor's in digital media communication classes, I got called out by
 
 ### Anyways, that's how I went from communications to web development ###
 
-Grab something warm ☕ and check out my projects, hope when can meet soon!
+Grab something warm ☕ and check out my projects, hope we can meet soon!
 
 - 🔭 I’m currently working on getting a job at IT, and getting my IT associate's degree
-- 🌱 I’m currently learning App development
+- 🌱 I’m currently learning Web App development
 - ⚡ Fun fact: I can drink coffee and immediately go to sleep
 
 ## Here's some technologies I've been working with... ##
