@@ -16,7 +16,6 @@ Grab something warm ☕ and check out my projects, hope when can meet soon!
 - 🔭 I’m currently working on getting a job at IT, and getting my IT associate's degree
 - 🌱 I’m currently learning App development
 - ⚡ Fun fact: I can drink coffee and immediately go to sleep
-------
 
 ## Here's some technologies I've been working with... ##
 ------
