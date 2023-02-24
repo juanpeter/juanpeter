@@ -1,7 +1,7 @@
 # Hi there, welcome to my Github ☕ #
 
 ## As you may already know, I'm João Pedro [1] ##
-I'm a web developer stationed in João Pessoa, Paraiba, Brazil (for now).
+I'm a System Engineer currently living in the Tampa Bay Area, FL.
 
 During my bachelor's in digital media communications, I got called out by my programming professor, who said, and I quote:
 
@@ -12,10 +12,6 @@ During my bachelor's in digital media communications, I got called out by my pro
 ### Anyways, that's how I went from communications to web development ###
 
 Grab something warm ☕ and check out my projects, hope we can meet soon!
-
-- 🔭 I’m currently working on getting a job at IT, and getting my IT associate's degree
-- 🌱 I’m currently learning Web App development
-- ⚡ Fun fact: I can drink coffee and immediately go to sleep
 
 ## Here's some technologies I've been working with... ##
 ------
@@ -45,7 +41,7 @@ Grab something warm ☕ and check out my projects, hope we can meet soon!
 ------
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=LinkedIn)](https://www.linkedin.com/in/jpisrael/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logoColor=white&logo=Gmail&color=EA4335)](mailto:juanpeterisrael@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logoColor=white&logo=Gmail&color=EA4335)](mailto:johnpeterisreal716@gmail.com)
 
 
 ## Send me memes here ##
@@ -57,4 +53,4 @@ Grab something warm ☕ and check out my projects, hope we can meet soon!
 
 [1] My full name is João Pedro Israel de Souza, quite a mouthful, huh?
 
-[2] Nah, there is no revenge subplot here, this professor has always been a big inspiration for me, and the reason I got into coding in the first place
+[2] There is no revenge subplot here, this professor has always been a big inspiration for me, and the reason I got into coding in the first place
