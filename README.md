@@ -1,13 +1,13 @@
 # Hi there, welcome to my Github ☕ #
 
-## As you may already know, I'm João Pedro [1] ##
+## As you may already know, I'm João Pedro ##
 I'm a System Engineer currently living in the Tampa Bay Area, FL.
 
 During my bachelor's in digital media communications, I got called out by my programming professor, who said, and I quote:
 
 > "João, you just always find a way to break every code I ask the class to make, it must be some kind of curse"
 
-...And I kinda took that personally [2]
+...And I kinda took that personally [1]
 
 ### Anyways, that's how I went from communications to web development ###
 
@@ -43,14 +43,4 @@ Grab something warm ☕ and check out my projects, hope we can meet soon!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=LinkedIn)](https://www.linkedin.com/in/jpisrael/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logoColor=white&logo=Gmail&color=EA4335)](mailto:johnpeterisreal716@gmail.com)
 
-
-## Send me memes here ##
-------
-
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logoColor=white&logo=Twitter&color=1DA1F2)](https://twitter.com/JPis_Real)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logoColor=white&logo=Facebook&color=1877F2)](https://www.facebook.com/jpedro.israel)
-
-
-[1] My full name is João Pedro Israel de Souza, quite a mouthful, huh?
-
-[2] There is no revenge subplot here, this professor has always been a big inspiration for me, and the reason I got into coding in the first place
+[1] There is no revenge subplot here, this professor has always been a big inspiration for me, and the reason I got into coding in the first place
