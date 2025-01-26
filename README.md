@@ -7,7 +7,7 @@ During my bachelor's in digital media communications, I got called out by my pro
 
 > "João, you just always find a way to break every code I ask the class to make, it must be some kind of curse"
 
-...And I kinda took that personally [1]
+...And I kinda took that personally
 
 ### Anyways, that's how I went from communications to web development ###
 
@@ -42,5 +42,3 @@ Grab something warm ☕ and check out my projects, hope we can meet soon!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=LinkedIn)](https://www.linkedin.com/in/jpisrael/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logoColor=white&logo=Gmail&color=EA4335)](mailto:johnpeterisreal716@gmail.com)
-
-[1] There is no revenge subplot here, this professor has always been a big inspiration for me, and the reason I got into coding in the first place
