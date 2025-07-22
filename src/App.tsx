@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className='text-center'>
-        <h1>It needs to exist</h1>
+        <h1>It needs to exist first</h1>
 
         <p>It can be made good later</p>
        </div>
