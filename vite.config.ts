@@ -9,4 +9,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  base: "https://juanpeter.github.io/juanpeter/"
 })
