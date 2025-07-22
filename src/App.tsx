@@ -4,8 +4,8 @@ function App() {
 
   return (
     <>
-      <div>
-        <h1 className="text-3xl font-bold underline">It needs to exist</h1>
+      <div className='text-center'>
+        <h1>It needs to exist</h1>
 
         <p>It can be made good later</p>
        </div>
