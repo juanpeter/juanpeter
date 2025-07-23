@@ -1,71 +1,22 @@
-# React + TypeScript + Vite
+# I will use this readme as a sort of diary for the progress of this little project.
 
-small change
+First, a confession: My dev carreer did not go beyond the tech boom during the 2020 pandemic.
+Due to personal reasons, I was let go from my dev job in 2022 and did not manage to get a new job in the area, now, IT serves a an ever present ghost of "What could have been", both in a professional, intellectual and in a compensation point of view.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+So, 3 years after being let go, I decided to do what I should have done since the beginning. **practicing with something that I enjoy, instead of copying an infinite list of tutorials**
 
-Currently, two official plugins are available:
+So this is my little pet project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>This is a project about starting something new.
+>It matters not that it is not good yet.
+>It matters that it exists and improves over time.
 
-## Expanding the ESLint configuration
+## 07/21/2025
+- Started this project, struggled a little bit lauching the page to github pages.
+- The stack is React, Vite and Tailwind Css
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 07/22/2025
+- Decided to start this little diary. Better than the generic React Readme.md.
+- Adding some components, thinking of **adding pagination** to the page in order to track progress
+- Defaulted to dark mode since deving in a dark room hurts when the default is white **Want to implement a trigger for dark/light mode**
+- Starting Footer and header components, they are useless at the moment
