@@ -1,16 +1,18 @@
 import './App.css'
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import { MainPage } from './components/Pages/MainPage'
+// import { NavigatorTest } from './components/Pages/NavigatorTest'
 
 function App() {
 
   return (
     <>
-      <main className='h-screen bg-white dark:bg-gray-800 content-center'>
-        <div className='text-center text-gray-500 dark:text-gray-400'>
-          <h1 className='text-6xl font-extrabold tracking-wide mb-6'>It needs to exist first</h1>
-
-          <p>It can be made good later</p>
-        </div>
-      </main>
+      <BrowserRouter>
+        <Routes>
+          <Route path='/juanpeter' element={<MainPage />}></Route>
+          {/* <Route path='/juanpeter/navigatorTest' element={<NavigatorTest />}></Route> */}
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }

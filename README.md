@@ -20,3 +20,6 @@ So this is my little pet project.
 - Adding some components, thinking of **adding pagination** to the page in order to track progress
 - Defaulted to dark mode since deving in a dark room hurts when the default is white **Want to implement a trigger for dark/light mode**
 - Starting Footer and header components, they are useless at the moment
+
+## 07/27/2025
+- Adding react-paginate, trying to add update dates as labels
