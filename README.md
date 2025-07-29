@@ -23,3 +23,7 @@ So this is my little pet project.
 
 ## 07/27/2025
 - Adding react-paginate, trying to add update dates as labels
+
+## 07/28/2025
+- Since this project is effectively the same page displaying different classes, could this be done administered with a .json file to simulate a db?
+- Removing react-paginate, was not helping
