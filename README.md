@@ -27,3 +27,7 @@ So this is my little pet project.
 ## 07/28/2025
 - Since this project is effectively the same page displaying different classes, could this be done administered with a .json file to simulate a db?
 - Removing react-paginate, was not helping
+
+## 07/28/2026
+- It's been a while
+- Need to find out how to make the pageversion a shareable data between the pages

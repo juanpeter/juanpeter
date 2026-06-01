@@ -2,15 +2,31 @@
     "updates":[
         {
             "date": "07/21/2025",
-            "theme": "simple"
+            "theme": "simple",
+            "title": "This is just the beggining",
+            "subtext": "A long time ago"
         },
         {
             "date": "07/22/2025",
-            "theme": "tailwind-dark"
+            "theme": "tailwind-dark",
+            "title": "Consistency has always been my greatest pursuit",
+            "subtext": "One that always eludes me"
         },
-                {
+        {
             "date": "07/28/2025",
-            "theme": "footer-update"
+            "theme": "footer-update",
+            "title": "And failing to reach it over and over has discouraged me from even giving chase",
+            "subtext": "But alas"
+        },
+        {
+            "date": "05/31/2026",
+            "theme": "Let it go", 
+            "classes": {
+                    "bg": "bgFire"
+            },
+            "title": "If the past only weights one down",
+            "subtext": "Them it should be let go, so theres room for the new"
+            
         }
     ]
 }
